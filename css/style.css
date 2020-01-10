@@ -18,3 +18,17 @@ body {
 .container .post h1 {
   font-size: 26px;
 }
+
+.container .cabecera {
+  background: #33a;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px 5px;
+}
+
+.container .tagline {
+  margin: 0;
+  font-weight: normal;
+  font-size: 0.8em;
+}
