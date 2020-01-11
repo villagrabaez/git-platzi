@@ -25,6 +25,7 @@ Estoy creciendo en el mundo del desarrollo web. Actualmente me encuentro trabaja
 ### Lenguajes
 - PHP
 - Javascript
+- SQL
 
 ### Frameworks
 - Laravel
