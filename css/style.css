@@ -35,3 +35,10 @@ body {
   font-weight: normal;
   font-size: 0.8em;
 }
+
+.container .footer {
+  color: #ffffff;
+  background: #333;
+  padding: 20px 0;
+  text-align: center;
+}
